@@ -54,6 +54,7 @@ body{
     padding-left: 1rem;
     margin-top: 0px;
     margin-bottom: 0px;
+
 }
 
 .status{
@@ -65,8 +66,7 @@ body{
 }
 
 .icons{
-    display: flex;
-    justify-content: end;
+    display: inline;
 }
 
 .newChat{
