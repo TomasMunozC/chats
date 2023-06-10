@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.chats{
+    display: flex;
+    width: 20%;
+    min-height: 100vh;
+    border: solid 1px gray;
+
+}
+
+.msj{
+    display: flex;
+    width: 80%;
+    min-height: 100vh;
+    border: solid 1px gray;
+}
